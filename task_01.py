@@ -1,3 +1,3 @@
-x = 20
-y = 30
-print(x * y)
+c = 20
+d = 30
+print(c * d)
